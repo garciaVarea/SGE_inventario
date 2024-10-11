@@ -1,0 +1,4 @@
+manzanas, 1.5, 10
+naranjas, 2.0, 5
+plátanos, 1.2, 20
+peras, 2.5, 0
